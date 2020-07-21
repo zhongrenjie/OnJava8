@@ -23,3 +23,10 @@ _book
 
 # IDEA
 /.idea/*
+
+# Docker
+docker-compose.yml
+Dockerfile
+
+# Nginx
+nginx.conf
