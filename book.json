@@ -20,7 +20,9 @@
 	"katex",
 	"mermaid-gb3",
 	"advanced-emoji",
-	"include-codeblock"
+	"include-codeblock",
+	"ace",
+	"back-to-top-button"
   ],
   "pluginsConfig": {
 	"edit-link": {
